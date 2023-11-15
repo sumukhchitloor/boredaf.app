@@ -12,7 +12,7 @@
     "react": "next",
     "react-dom": "next",
     "react-rewards": "1.0.7",
-    "react-scripts": "2.0.3",
+    "react-scripts": "3.3.0",
     "react-spring": "^7.2.10",
     "styled-components": "4.1.3"
   },
